@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Pasek56
+# 👋 ¡Hola! Soy Miguel Antonio Parada Salcedo
 
 ### Desarrollador de software · Proyectos personales y académicos
 
